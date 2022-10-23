@@ -20,7 +20,7 @@ Challenge where build a Fibonacci Api Rest.
 
 ## Running Instructions:
 1. Open Visual Studio 2017
-2. Open the file "StarWars.sln"
+2. Open the file "FibonacciAPI.sln"
 3. Clean Solution
 4. Build Solution 
 5. Run Solution and automatic the browser will open.
