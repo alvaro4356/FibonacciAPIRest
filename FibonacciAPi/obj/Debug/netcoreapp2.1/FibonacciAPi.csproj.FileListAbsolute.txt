@@ -1,0 +1,14 @@
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\bin\Debug\netcoreapp2.1\FibonacciAPi.deps.json
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\bin\Debug\netcoreapp2.1\FibonacciAPi.runtimeconfig.json
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\bin\Debug\netcoreapp2.1\FibonacciAPi.runtimeconfig.dev.json
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\bin\Debug\netcoreapp2.1\FibonacciAPi.dll
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\bin\Debug\netcoreapp2.1\FibonacciAPi.pdb
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.csprojAssemblyReference.cache
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.csproj.CoreCompileInputs.cache
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.RazorAssemblyInfo.cache
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.RazorAssemblyInfo.cs
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.AssemblyInfoInputs.cache
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.AssemblyInfo.cs
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.RazorTargetAssemblyInfo.cache
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.dll
+C:\Users\Saca\source\repos\FibonacciAPi\FibonacciAPi\obj\Debug\netcoreapp2.1\FibonacciAPi.pdb
