@@ -28,6 +28,8 @@ with other platforms.
 3. Clean Solution
 4. Build Solution 
 5. Run Solution and automatic the browser will open.
+6. On the url showed in the browser will add the index "n" asked
+   for next the program show the result.  
 
 ## Optimization:
 A better solution is make a form with labels, textbox and button, for 
