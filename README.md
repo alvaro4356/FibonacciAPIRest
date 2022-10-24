@@ -31,7 +31,7 @@ for work with Asp.NetCore and it also helps you a lot with identifying code erro
 6. On the url showed in the browser will add the index "n" asked
    for next the program show the result.  
 
-https://github.com/alvaro4356/FibonacciAPIRest/blob/main/Images/Fibonacci%20N(0).png
+https://raw.github.com/alvaro4356/FibonacciAPIRest/master/Images/Fibonacci%20N(0).png
 
 ## Algorithm Description:
 The algorithm code is written in the "ValluesController.cs" section, "Controllers" folder.
