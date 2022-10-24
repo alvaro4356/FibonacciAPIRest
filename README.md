@@ -35,8 +35,8 @@ In the carpet "Images" there are some screenshots where you could see the Input 
 
 ## Possible Technical Problems and Solutions:
 
-- Have busy ports.    Solution: Verify the the busy ports in the O.S for next use the free ports.
-- Don't run the program on Windows 10.     Solution: Install Windows 10 or run the program in a machine with Windows 10.
+- Have busy ports.    SOLUTION: Verify the the busy ports in the O.S for next use the free ports.
+- Don't run the program on Windows 10.     SOLUTION: Install Windows 10 or run the program in a machine with Windows 10.
 
 ## Algorithm Description:
 The algorithm code is written in the "ValluesController.cs" section, "Controllers" folder.
