@@ -24,7 +24,7 @@ for work with Asp.NetCore and it also helps you a lot with identifying code erro
 
 ## Running Instructions:
 1. Open Visual Studio 2017
-2. Open the file "FibonacciAPI.sln"
+2. Open the file "FibonacciAPi.sln"
 3. Clean Solution
 4. Build Solution 
 5. Run Solution and automatic the browser will open.
@@ -44,8 +44,8 @@ For case b, the variables "a", "b", "c", "k" and a for-loop are used.
 The for loop is used to go over and operate the Fibonacci Serie.
 The variable "k" marks the beginning of the position of the Fibonacci Serie, which is 2. It also acts
 as an accountant.
-The variable "c" is an accumulator that displays the final result.
 The variables "a" and "b" store the information of the last 2 values of the serie.
+The variable "c" save and add the values of "a" and  "b" in each iteration to next show the final result.
 
 
 ## Optimization:
