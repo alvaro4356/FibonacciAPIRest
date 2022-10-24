@@ -1,5 +1,5 @@
 # FibonacciAPIRest
-Challenge where build a Fibonacci Api Rest. The http method used is Get, due to more simple to implement than other methods. 
+Challenge where build a Fibonacci Api Rest. The http method used is GET, due to more simple to implement than other methods. 
 It was used the languague "C#" because I am more acquainted with it.
 It was chosen Asp.NetCore because is more desgined to work with different API Webs than
 with other platforms. The IDE used was Microsoft Visual Studio, due to is required
@@ -14,7 +14,7 @@ for work with Asp.NetCore and it also helps you a lot with identifying code erro
 - Microsoft Visual Studio 2017 
 #### Language:
 - C#
-#### S.O:
+#### O.S:
 - Windows 10
 
 ## Requirements: 
@@ -31,7 +31,12 @@ for work with Asp.NetCore and it also helps you a lot with identifying code erro
 6. On the url showed in the browser will add the index "n" asked
    for next the program show the result.  
 
-https://raw.github.com/alvaro4356/FibonacciAPIRest/master/Images/Fibonacci%20N(0).png
+In the carpet "Images" there are some screenshots where you could see the Input and Ouput in the browser. 
+
+## Possible Technical Problems and Solutions:
+
+- Have busy ports. Solution: Verify the the busy ports in the O.S for next use the free ports.
+- Don't run the program on Windows 10. Solution: Install Windows 10 or run the program in a machine with Windows 10.
 
 ## Algorithm Description:
 The algorithm code is written in the "ValluesController.cs" section, "Controllers" folder.
@@ -46,7 +51,7 @@ For case b, the variables "a", "b", "c", "k" and a for-loop are used.
 The for loop is used to go over and operate the Fibonacci Serie.
 The variable "k" marks the beginning of the position of the Fibonacci Serie, which is 2. It also acts
 as an accountant.
-The variables "a" and "b" store the information of the last 2 values of the serie.
+The variables "a" and "b" store the information of the last 2 values of the Serie.
 The variable "c" save and add the values of "a" and  "b" in each iteration to next show the final result.
 
 
