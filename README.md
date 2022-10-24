@@ -24,3 +24,12 @@ Challenge where build a Fibonacci Api Rest.
 3. Clean Solution
 4. Build Solution 
 5. Run Solution and automatic the browser will open.
+
+## Optimization:
+A better solution is make a form with label, textboxs and buttons, for 
+improve the design and procedure. Also use the http method: Post  with 
+the form,  because is a method more safe. On the textbox would put the index "n" asked. 
+and through the button would be given the orden for process the program. In a label would 
+show the result.
+
+
