@@ -40,7 +40,7 @@ b) If the index "n" entered is greater than or equal to 2.
 For case a, two Ifs are used to identify "n"
 and then display the result in the browser.
 
-For case b, the variables "a","b","c","k" and a for-loop are used.
+For case b, the variables "a", "b", "c", "k" and a for-loop are used.
 The for loop is used to go over and operate the Fibonacci Serie.
 The variable "k" marks the beginning of the position of the Fibonacci Serie, which is 2. It also acts
 as an accountant.
