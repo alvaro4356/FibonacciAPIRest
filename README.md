@@ -5,8 +5,6 @@ It was chosen Asp.NetCore because is more desgined to work with different API We
 with other platforms. The IDE used was Microsoft Visual Studio, due to is required
 for work with Asp.NetCore and it also helps you a lot with identifying code errors and solving them
 
-
-
 ## Technologies used:
 #### Frontend:
 -Html
@@ -32,6 +30,23 @@ for work with Asp.NetCore and it also helps you a lot with identifying code erro
 5. Run Solution and automatic the browser will open.
 6. On the url showed in the browser will add the index "n" asked
    for next the program show the result.  
+
+## Algorithm Description:
+The algorithm code is written in the "ValluesController.cs" section, Controllers folder.
+Two cases are handled:
+a) In case the index n entered is any of the first two positions of the Fibonacci series
+b) If the index n entered is greater than or equal to 2.
+
+For case a, two if are used to identify n
+and then display the result in the browser.
+
+For case b, the variables a,b,c,k and a for-loop are used.
+The for loop is used to go over and operate the fibonacci serie.
+The variable k marks the beginning of the position of the Fibonacci serie, which is 2. It also acts
+as an accountant.
+The variable c is an accumulator that displays the final result.
+The variables a and b store the information of the last 2 values of the series.
+
 
 ## Optimization:
 A better solution is make a form with labels, textbox and button, for 
