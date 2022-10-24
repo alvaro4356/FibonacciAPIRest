@@ -7,7 +7,7 @@ for work with Asp.NetCore and it also helps you a lot with identifying code erro
 
 ## Technologies used:
 #### Frontend:
--Html
+- Html
 #### FrameWork: 
 - Asp.Net Core v2.1
 #### IDE:
@@ -32,20 +32,20 @@ for work with Asp.NetCore and it also helps you a lot with identifying code erro
    for next the program show the result.  
 
 ## Algorithm Description:
-The algorithm code is written in the "ValluesController.cs" section, Controllers folder.
+The algorithm code is written in the "ValluesController.cs" section, "Controllers" folder.
 Two cases are handled:
-a) In case the index n entered is any of the first two positions of the Fibonacci series
-b) If the index n entered is greater than or equal to 2.
+a) In case the index "n" entered is any of the first two positions of the Fibonacci Serie.
+b) If the index "n" entered is greater than or equal to 2.
 
-For case a, two if are used to identify n
+For case a, two Ifs are used to identify "n"
 and then display the result in the browser.
 
-For case b, the variables a,b,c,k and a for-loop are used.
-The for loop is used to go over and operate the fibonacci serie.
-The variable k marks the beginning of the position of the Fibonacci serie, which is 2. It also acts
+For case b, the variables "a","b","c","k" and a for-loop are used.
+The for loop is used to go over and operate the Fibonacci Serie.
+The variable "k" marks the beginning of the position of the Fibonacci Serie, which is 2. It also acts
 as an accountant.
-The variable c is an accumulator that displays the final result.
-The variables a and b store the information of the last 2 values of the series.
+The variable "c" is an accumulator that displays the final result.
+The variables "a" and "b" store the information of the last 2 values of the serie.
 
 
 ## Optimization:
