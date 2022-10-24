@@ -1,5 +1,5 @@
 # FibonacciAPIRest
-Challenge where build a Fibonacci Api Rest.The http method used is Get, due to more simple to implement than other methods. 
+Challenge where build a Fibonacci Api Rest. The http method used is Get, due to more simple to implement than other methods. 
 It was used the languague "C#" because I am more acquainted with it.
 It was chosen Asp.NetCore because is more desgined to work with different API Webs than
 with other platforms. 
